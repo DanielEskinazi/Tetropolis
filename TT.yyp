@@ -2,6 +2,8 @@
   "resources": [
     {"id":{"name":"o_border","path":"objects/o_border/o_border.yy",},"order":0,},
     {"id":{"name":"s_border","path":"sprites/s_border/s_border.yy",},"order":0,},
+    {"id":{"name":"s_blueblock","path":"sprites/s_blueblock/s_blueblock.yy",},"order":1,},
+    {"id":{"name":"o_blueblock","path":"objects/o_blueblock/o_blueblock.yy",},"order":1,},
     {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
   ],
   "Options": [
