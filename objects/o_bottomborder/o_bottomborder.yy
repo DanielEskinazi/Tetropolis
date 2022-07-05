@@ -1,17 +1,14 @@
 {
   "spriteId": {
-    "name": "s_yellowblock",
-    "path": "sprites/s_yellowblock/s_yellowblock.yy",
+    "name": "s_bottomborder",
+    "path": "sprites/s_bottomborder/s_bottomborder.yy",
   },
   "solid": false,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": {
-    "name": "o_block",
-    "path": "objects/o_block/o_block.yy",
-  },
+  "parentObjectId": null,
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -32,7 +29,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "o_yellowblock",
+  "name": "o_bottomborder",
   "tags": [],
   "resourceType": "GMObject",
 }

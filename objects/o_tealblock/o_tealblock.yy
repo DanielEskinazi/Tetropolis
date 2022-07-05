@@ -8,7 +8,10 @@
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "o_block",
+    "path": "objects/o_block/o_block.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
