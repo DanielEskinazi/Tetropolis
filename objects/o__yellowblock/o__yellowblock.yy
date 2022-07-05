@@ -1,14 +1,17 @@
 {
   "spriteId": {
-    "name": "s_greenpiece",
-    "path": "sprites/s_greenpiece/s_greenpiece.yy",
+    "name": "s_yellowpiece",
+    "path": "sprites/s_yellowpiece/s_yellowpiece.yy",
   },
   "solid": false,
   "visible": true,
   "managed": true,
   "spriteMaskId": null,
   "persistent": false,
-  "parentObjectId": null,
+  "parentObjectId": {
+    "name": "o_block",
+    "path": "objects/o_block/o_block.yy",
+  },
   "physicsObject": false,
   "physicsSensor": false,
   "physicsShape": 1,
@@ -29,7 +32,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "o_greenblock",
+  "name": "o__yellowblock",
   "tags": [],
   "resourceType": "GMObject",
 }

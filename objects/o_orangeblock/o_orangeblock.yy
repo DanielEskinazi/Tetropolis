@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "s_orangeblock",
-    "path": "sprites/s_orangeblock/s_orangeblock.yy",
+    "name": "s_orangepiece",
+    "path": "sprites/s_orangepiece/s_orangepiece.yy",
   },
   "solid": false,
   "visible": true,

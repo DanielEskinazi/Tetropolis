@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "s_blueblock",
-    "path": "sprites/s_blueblock/s_blueblock.yy",
+    "name": "s_bluepiece",
+    "path": "sprites/s_bluepiece/s_bluepiece.yy",
   },
   "solid": false,
   "visible": true,
@@ -23,12 +23,7 @@
   "physicsFriction": 0.2,
   "physicsStartAwake": true,
   "physicsKinematic": false,
-  "physicsShapePoints": [
-    {"x":0.0,"y":0.0,},
-    {"x":32.0,"y":0.0,},
-    {"x":32.0,"y":32.0,},
-    {"x":0.0,"y":32.0,},
-  ],
+  "physicsShapePoints": [],
   "eventList": [],
   "properties": [],
   "overriddenProperties": [],

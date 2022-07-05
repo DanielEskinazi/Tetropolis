@@ -19,3 +19,4 @@ if(key_down)
 {
 	y = y + downward_speed
 }
+

@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "s_tealblock",
-    "path": "sprites/s_tealblock/s_tealblock.yy",
+    "name": "s_tealpiece",
+    "path": "sprites/s_tealpiece/s_tealpiece.yy",
   },
   "solid": false,
   "visible": true,

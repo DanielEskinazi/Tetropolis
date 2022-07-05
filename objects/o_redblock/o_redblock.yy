@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "s_redblock",
-    "path": "sprites/s_redblock/s_redblock.yy",
+    "name": "s_redpiece",
+    "path": "sprites/s_redpiece/s_redpiece.yy",
   },
   "solid": false,
   "visible": true,

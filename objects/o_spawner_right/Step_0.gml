@@ -4,7 +4,7 @@
 //timer--;
 //print(timer)
 if (!falling){
-	instance_create_layer(x, y, "Instances", o_blueblock)
+	instance_create_layer(x, y, "Instances", o_block)
 	falling = true
 }
 
