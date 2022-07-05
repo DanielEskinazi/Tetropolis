@@ -27,3 +27,9 @@ if (!landed){
 		vspeed = 0	
 	}
 }
+
+// test collission
+
+//if(tilemap_get_at_"blocks"(layer_tilemap_get_id("border"), x, y)) {
+//Collision with something on layer called "walls"
+//}
