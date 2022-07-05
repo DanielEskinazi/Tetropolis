@@ -1,4 +1,3 @@
-hsp = 0;
-movementspeed = 100;
-gravity = .01;
-snapmovement = 1;
+vspeed = 1
+snapmovement = 16.5;
+downward_speed = 2
