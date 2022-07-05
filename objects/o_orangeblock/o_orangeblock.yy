@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "s_orangeblock",
+    "path": "sprites/s_orangeblock/s_orangeblock.yy",
+  },
   "solid": false,
   "visible": true,
   "managed": true,
