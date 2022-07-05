@@ -1,7 +1,7 @@
 {
   "spriteId": {
-    "name": "s_border",
-    "path": "sprites/s_border/s_border.yy",
+    "name": "s_rightborder",
+    "path": "sprites/s_rightborder/s_rightborder.yy",
   },
   "solid": false,
   "visible": true,
@@ -29,7 +29,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "o_border",
+  "name": "o_rightborder",
   "tags": [],
   "resourceType": "GMObject",
 }
